@@ -11,6 +11,7 @@ namespace App2
     {
         public MainPage()
         {
+            //asdfasdf
             InitializeComponent();
         }
     }
